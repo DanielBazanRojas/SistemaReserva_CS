@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SistemaReserva2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SistemaReserva.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
